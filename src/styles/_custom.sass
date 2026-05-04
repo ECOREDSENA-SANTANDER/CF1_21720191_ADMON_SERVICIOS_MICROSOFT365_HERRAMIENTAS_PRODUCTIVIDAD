@@ -1,15 +1,22 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float1 3.6s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: 15%
+    right: 70%
+    width: 100px
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 70%
+    right: 52%
+    width: 80px
+  &-3
+    animation: float1 3.2s ease-in-out infinite alternate
+    position: absolute
+    top: 27%
+    right: 20%
+    width: 80px
 @keyframes float1
   0%
     transform: translateY(20px)
@@ -17,14 +24,118 @@
     transform: translateY(0px)
   
 
-.banner-principal .tarjeta
-  background-position: left 50% !important
 .banner-principal__row .banner-principal__img
-  width: 400px !important  
+  max-width: 600px !important  
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
-  color: white !important   
+  color: white !important
 .banner-interno__titulo__icono i
   color: $color-primario
-figcaption
+figcaption, caption
   font-weight: normal
- 
+.barra-avance__boton--regresar span
+  color: white !important
+.fa-lista
+  li
+    display: flex !important
+    align-items: flex-start
+  li:before
+    position: relative
+    margin-right: 7px
+    font-size: 1.4rem 
+.banner-interno .banner-interno__fondo
+  background-image:  url('../assets/curso/portada/mini-portada.svg') !important
+  background-position: top left
+.lista-ul--color.color-primario li > i:first-of-type  
+  color: $color-primario
+.lista-ul--color.color-secundario li > i:first-of-type  
+  color: $color-secundario     
+.lista-ul--color.color-adicional-1 li > i:first-of-type  
+  color: $color-adicional-1  
+.lista-ul--color.color-adicional-2 li > i:first-of-type  
+  color: $color-adicional-2  
+.lista-ol--cuadro.color-primario .lista-ol--cuadro__vineta
+  background-color: $color-primario
+.bg-color-acento-botones
+  background-color: $color-acento-botones
+.bg-color-acento-contenido
+  background-color: $color-acento-contenido
+.bg-color-primario
+  background-color: $color-primario
+.bg-color-secundario
+  background-color: $color-secundario
+.bg-color-sistema-texto
+  background-color: $color-sistema-texto
+.text-color-sistema
+  color: $color-sistema-texto !important
+.bg-color-adicional-1
+  background-color: $color-adicional-1
+.ct-color-primario
+  color: $color-primario
+.ct-color-acento-botones
+  color: $color-acento-botones
+.ct-secundario 
+  color: $color-secundario !important
+.ct-acento-contenido 
+  color: $color-acento-contenido !important
+.w-fit
+  width: fit-content
+.columns-2
+  columns: 2
+.font-italic
+  font-style: italic !important
+.sin-borde
+  border: 0px !important
+.br-top
+  border-top-left-radius: 20px 
+  border-top-right-radius: 20px 
+.br-left
+  border-top-left-radius: 20px 
+  border-bottom-left-radius: 20px 
+.br-right
+  border-top-right-radius: 20px 
+  border-bottom-right-radius: 20px 
+.tabs-a__tab__text 
+  white-space: normal
+.l-circle i.fa-circle
+  font-size: 6px
+  top: 10px !important
+
+
+.bg1
+  background-color: #E5EDF3 !important
+.bg2
+  background-color:  #E6EDE9
+.bgi-1
+  background-image: url('../assets/curso/temas/t1/bg.png')
+  background-size: cover
+  background-repeat: no-repeat
+.bgcolor-1
+  background: #E5EDF3
+  background-size: cover
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+    background-size: cover 
+.w-85x
+  width: 85px
+
+
+.slyder-a
+  .slyder-a__btn--sigt, .slyder-a__btn--atrs
+    background-color: $color-acento-botones
+    border-color: $color-acento-botones
+    opacity: 0.9
+  &__bullets__item
+    background-color: #F6E9E5
+    border-color: #F6E9E5
+    opacity: 1
+    &--active
+      background-color: $color-acento-botones
+      border-color: $color-acento-botones
+.tarjeta-audio__texto
+  color: $color-sistema-texto !important
+  font-style: normal !important
