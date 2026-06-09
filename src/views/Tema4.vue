@@ -81,7 +81,7 @@
         .bg-white.tarjeta.p-4
           TarjetaAudio.color-acento-botones(
             texto="Pódcast: La identidad digital como base de la seguridad"
-            :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+            :audio="require('@/assets/componentes/audios/Podcast_CF1_21720191.mp3')"
             @audio-hover="mostrarIndicadorTarjetaAudio = false"
           )
             .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
