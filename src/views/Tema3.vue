@@ -61,19 +61,19 @@
         p Una de las configuraciones más críticas es la protección contra enlaces seguros y archivos adjuntos seguros. Cuando un usuario recibe un correo con un enlace sospechoso, Microsoft Defender analiza el destino en tiempo real; si es malicioso, bloquea el acceso. De manera similar, los archivos adjuntos se ejecutan en un entorno aislado (#[em sandbox]) antes de ser entregados al usuario, neutralizando posibles amenazas antes de que comprometan el equipo.
 
     .cajon.color-primario.bg1.p-4
-      p.mb-0 Además, la configuración de políticas de acceso condicional (Conditional Access) en Microsoft Entra ID permite establecer reglas granulares sobre quién, desde dónde y en qué condiciones puede acceder a los recursos. Por ejemplo, una política puede exigir autenticación multifactor (MFA) solo si el usuario intenta iniciar sesión desde una ubicación fuera del país de origen de la institución, o bloquear el acceso a aplicaciones sensibles si el dispositivo del usuario no cumple con los requisitos de seguridad establecidos. Estas configuraciones son esenciales, ya que demuestran la capacidad del administrador para gestionar los niveles de acceso de forma inteligente y adaptativa.
+      p.mb-0 Además, la configuración de políticas de acceso condicional (#[b Conditional Access]) en Microsoft Entra ID permite establecer reglas granulares sobre quién, desde dónde y en qué condiciones puede acceder a los recursos. Por ejemplo, una política puede exigir autenticación multifactor (MFA) solo si el usuario intenta iniciar sesión desde una ubicación fuera del país de origen de la institución, o bloquear el acceso a aplicaciones sensibles si el dispositivo del usuario no cumple con los requisitos de seguridad establecidos. Estas configuraciones son esenciales, ya que demuestran la capacidad del administrador para gestionar los niveles de acceso de forma inteligente y adaptativa.
 
 
     Separador
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 3.3 Fomento de la ciudadanía digital y el uso responsable
 
-    .row.justify-content-center
+    .row.justify-content-center.d-flex
       .col-lg-5.col-md-6.col-9.mb-3.mb-lg-0(data-aos="fade-right")
         img(src='@/assets/curso/temas/t3/6.png', alt='')
       .col-lg-7(data-aos="fade-left")
         p La tecnología por sí sola no puede garantizar la seguridad; el factor humano es a menudo el eslabón más débil. Por lo tanto, el rol del administrador trasciende la configuración técnica para incluir la promoción de una cultura de seguridad y el uso responsable de los recursos digitales. En el contexto de la formación profesional, esto se alinea con el desarrollo de competencias blandas relacionadas con la ciudadanía digital.
-        p.mb-4 El administrador debe aprovechar las herramientas de Microsoft 365 para educar y concientizar. Por ejemplo, las campañas de simulación de ataques (#[em Attack Simulation Training]) permiten enviar correos de #[em phishing] simulados a los usuarios. Si un aprendiz o instructor cae en la trampa, el sistema no lo penaliza, sino que le ofrece capacitación inmediata (#[em micro-learning]) sobre cómo identificar las señales de un ataque real. Este enfoque transforma un evento de riesgo potencial en una oportunidad de aprendizaje, reforzando la dimensión pedagógica del rol del administrador.
+        p.mb-4.mb-xl-5 El administrador debe aprovechar las herramientas de Microsoft 365 para educar y concientizar. Por ejemplo, las campañas de simulación de ataques (#[em Attack Simulation Training]) permiten enviar correos de #[em phishing] simulados a los usuarios. Si un aprendiz o instructor cae en la trampa, el sistema no lo penaliza, sino que le ofrece capacitación inmediata (#[em micro-learning]) sobre cómo identificar las señales de un ataque real. Este enfoque transforma un evento de riesgo potencial en una oportunidad de aprendizaje, reforzando la dimensión pedagógica del rol del administrador.
         .cajon.color-primario.bg1.p-4
           p.mb-0 El uso responsable también implica la gestión de los recursos de la organización. El administrador debe establecer políticas claras sobre el uso aceptable de OneDrive, Microsoft Teams y el correo electrónico, comunicándolas de manera efectiva a la comunidad. Al fomentar un comportamiento ético y seguro en línea, el administrador contribuye a la formación de ciudadanos digitales responsables, preparados para desenvolverse en las organizaciones 4.0.
 

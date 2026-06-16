@@ -267,33 +267,27 @@ export default {
   referencias: [
     {
       referencia:
-        'Caballero, A., & Dominguez, R. (2022). Gestion de la seguridad y privacidad en entornos cloud y Microsoft 365. Editorial Ra-Ma.',
-      link: '',
+        'Caballero, A., & Domínguez, R. (2022). Gestión de la seguridad y privacidad en entornos cloud y Microsoft 365. Editorial Ra-Ma. ',
     },
     {
       referencia:
-        'Gomez, P. (2021). Implementacion de arquitecturas hibridas y gestion de identidades con Microsoft Entra. Ediciones ENI.',
-      link: '',
+        'Gómez, P. (2021). Implementación de arquitecturas híbridas y gestión de identidades con Microsoft Entra. Ediciones ENI. ',
     },
     {
       referencia:
-        'Lopez, M., & Fernandez, J. (2023). Ciberseguridad y cumplimiento normativo en las organizaciones 4.0: Casos practicos. Editorial Sintesis.',
-      link: '',
+        'López, M., & Fernández, J. (2023). Ciberseguridad y cumplimiento normativo en las organizaciones 4.0: Casos prácticos. Editorial Síntesis. ',
     },
     {
       referencia:
-        'Microsoft. (2024). Informacion general sobre la administracion de Microsoft 365. Microsoft Learn.',
-      link: '',
+        'Microsoft. (2024). Información general sobre la administración de Microsoft 365. Microsoft Learn ',
     },
     {
       referencia:
-        'Ministerio de Tecnologias de la Informacion y las Comunicaciones [MinTIC]. (2022). Guia de adopcion y uso responsable de servicios en la nube para entidades y empresas. Gobierno de Colombia.',
-      link: '',
+        'Ministerio de Tecnologías de la Información y las Comunicaciones [MinTIC]. (2022). Guía de adopción y uso responsable de servicios en la nube para entidades y empresas. Gobierno de Colombia. ',
     },
     {
       referencia:
-        'Ramirez, C. (2021). Colaboracion y gestion documental en la nube educativa: OneDrive y SharePoint aplicados. Alfaomega Grupo Editor.',
-      link: '',
+        'Ramírez, C. (2021). Colaboración y gestión documental en la nube educativa: OneDrive y SharePoint aplicados. Alfaomega Grupo Editor. ',
     },
   ],
   creditos: [
@@ -303,7 +297,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional 06. Responsable Ecosistema de Recursos Educativos Digitales',
+            'Profesional 06. Responsable Ecosistema de Recursos Educativos Digitales (RED)',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -328,7 +322,7 @@ export default {
         },
         {
           nombre: 'Sandra Liliana Cristancho Cruz',
-          cargo: 'Apoyo a la Evaluación instruccional',
+          cargo: 'Apoyo a la evaluación instruccional',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -343,7 +337,7 @@ export default {
       autores: [
         {
           nombre: 'Yazmin Rocio Figueroa Pacheco',
-          cargo: 'Diseñador de contenidos',
+          cargo: 'Diseñadora de contenidos',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -352,7 +346,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: '--',
+          nombre: 'Maria Alejandra Vera Briceño',
           cargo: 'Animadora y productora audiovisual',
           centro: 'Centro Agroturístico - Regional Santander',
         },
@@ -362,12 +356,12 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: '--',
+          nombre: '',
           cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: '--',
+          nombre: '',
           cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },

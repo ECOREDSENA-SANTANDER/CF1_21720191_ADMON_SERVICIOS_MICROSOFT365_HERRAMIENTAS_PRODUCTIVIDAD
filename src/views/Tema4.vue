@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Tema 4
+      h1 Administración de unidades de almacenamiento en la nube
 
     .bloque-texto-g.color-primario.br-right.p-3.p-sm-4.p-md-5(data-aos="fade")
       .bloque-texto-g__img(
@@ -23,10 +23,10 @@
       .col-lg-5.col-md-6.col-9.mb-3.mb-lg-0(data-aos="fade-right")
         img(src='@/assets/curso/temas/t4/2.png', alt='')
       .col-lg-7(data-aos="fade-left")
-        p Comprender la diferencia arquitectónica y de propósito entre OneDrive y SharePoint es esencial para una correcta administración. OneDrive está diseñado para el almacenamiento personal y privado del usuario; es el equivalente moderno de la carpeta "Mis Documentos" en un disco duro local. Por defecto, los archivos en OneDrive son privados hasta que el usuario decide compartirlos explícitamente. Es ideal para borradores, apuntes de clase o documentos en etapas iniciales de desarrollo.
-        .cajon.color-primario.bg1.p-4.mb-4
+        p.mb-xl-4 Comprender la diferencia arquitectónica y de propósito entre OneDrive y SharePoint es esencial para una correcta administración. OneDrive está diseñado para el almacenamiento personal y privado del usuario; es el equivalente moderno de la carpeta "Mis Documentos" en un disco duro local. Por defecto, los archivos en OneDrive son privados hasta que el usuario decide compartirlos explícitamente. Es ideal para borradores, apuntes de clase o documentos en etapas iniciales de desarrollo.
+        .cajon.color-primario.bg1.p-4.mb-4.mb-xl-5
           p.mb-0 Por otro lado, SharePoint es la plataforma de colaboración y gestión documental a nivel de equipo y organización. Es el motor que impulsa el almacenamiento detrás de Microsoft Teams y los sitios de intranet institucionales. Los archivos en SharePoint están diseñados para ser compartidos y trabajados en conjunto desde el primer momento, sujetos a los permisos del sitio o equipo correspondiente.
-        p El administrador debe guiar a la organización en el uso correcto de estas herramientas. Una analogía útil en el contexto educativo es comparar OneDrive con el casillero personal de un aprendiz (privado y personal) y SharePoint con la biblioteca del centro de formación (público o restringido a grupos específicos, pero siempre orientado al recurso compartido). La configuración de las cuotas de almacenamiento y los límites de sincronización son tareas administrativas clave para garantizar un uso equitativo de los recursos.
+        p.mb-0 El administrador debe guiar a la organización en el uso correcto de estas herramientas. Una analogía útil en el contexto educativo es comparar OneDrive con el casillero personal de un aprendiz (privado y personal) y SharePoint con la biblioteca del centro de formación (público o restringido a grupos específicos, pero siempre orientado al recurso compartido). La configuración de las cuotas de almacenamiento y los límites de sincronización son tareas administrativas clave para garantizar un uso equitativo de los recursos.
 
 
     Separador
