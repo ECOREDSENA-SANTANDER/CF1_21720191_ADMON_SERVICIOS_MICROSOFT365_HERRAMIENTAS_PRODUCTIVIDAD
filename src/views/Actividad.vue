@@ -55,9 +55,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la identidad digital como base del acceso y la administración de recursos.',
+            ' Se evidencia un adecuado dominio de los conceptos relacionados con la identidad digital como base del acceso y la administración de recursos.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la definición de identidad digital en Microsoft 365.',
+            ' Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la definición de identidad digital en Microsoft 365.',
         },
         {
           id: 2,
@@ -89,9 +89,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con las convenciones de nomenclatura y la estandarización del UPN.',
+            ' Se evidencia un adecuado dominio de los conceptos relacionados con las convenciones de nomenclatura y la estandarización del UPN.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con el propósito del UPN y su importancia administrativa.',
+            ' Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con el propósito del UPN y su importancia administrativa.',
         },
         {
           id: 3,
@@ -126,9 +126,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con el modelo de identidad exclusiva en la nube y su pertinencia organizacional.',
+            ' Se evidencia un adecuado dominio de los conceptos relacionados con el modelo de identidad exclusiva en la nube y su pertinencia organizacional.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con los escenarios de uso del modelo de identidad en la nube.',
+            ' Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con los escenarios de uso del modelo de identidad en la nube.',
         },
         {
           id: 4,
@@ -162,9 +162,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la identidad híbrida y la sincronización de credenciales entre entornos.',
+            ' Se evidencia un adecuado dominio de los conceptos relacionados con la identidad híbrida y la sincronización de credenciales entre entornos.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con las ventajas de la identidad híbrida o sincronizada.',
+            ' Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con las ventajas de la identidad híbrida o sincronizada.',
         },
         {
           id: 5,
@@ -196,9 +196,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la autenticación delegada en modelos de identidad federada.',
+            ' Se evidencia un adecuado dominio de los conceptos relacionados con la autenticación delegada en modelos de identidad federada.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con el funcionamiento de la identidad federada y la validación del acceso.',
+            ' Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con el funcionamiento de la identidad federada y la validación del acceso.',
         },
         {
           id: 6,
@@ -230,9 +230,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la autenticación multifactor como mecanismo de acceso seguro.',
+            ' Se evidencia un adecuado dominio de los conceptos relacionados con la autenticación multifactor como mecanismo de acceso seguro.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con el propósito y funcionamiento de la MFA.',
+            ' Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con el propósito y funcionamiento de la MFA.',
         },
         {
           id: 7,
@@ -266,9 +266,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con el inicio de sesión único y su relación con la usabilidad segura.',
+            ' Se evidencia un adecuado dominio de los conceptos relacionados con el inicio de sesión único y su relación con la usabilidad segura.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con los beneficios del SSO dentro del ecosistema Microsoft 365.',
+            ' Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con los beneficios del SSO dentro del ecosistema Microsoft 365.',
         },
         {
           id: 8,
@@ -299,9 +299,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con el ciclo de vida del usuario y sus fases de ingreso, movimiento y salida.',
+            ' Se evidencia un adecuado dominio de los conceptos relacionados con el ciclo de vida del usuario y sus fases de ingreso, movimiento y salida.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la administración del ciclo de vida del usuario.',
+            ' Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la administración del ciclo de vida del usuario.',
         },
         {
           id: 9,
@@ -335,9 +335,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con las acciones de seguridad requeridas en la fase de salida del usuario.',
+            ' Se evidencia un adecuado dominio de los conceptos relacionados con las acciones de seguridad requeridas en la fase de salida del usuario.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con el procedimiento administrativo y de seguridad en la desvinculación.',
+            ' Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con el procedimiento administrativo y de seguridad en la desvinculación.',
         },
         {
           id: 10,
@@ -370,9 +370,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la asignación de licencias por grupos como estrategia de optimización.',
+            ' Se evidencia un adecuado dominio de los conceptos relacionados con la asignación de licencias por grupos como estrategia de optimización.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con las buenas prácticas de asignación y optimización de licencias.',
+            ' Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con las buenas prácticas de asignación y optimización de licencias.',
         },
         {
           id: 11,
@@ -405,9 +405,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con el principio de privilegio mínimo y la delegación responsable.',
+            ' Se evidencia un adecuado dominio de los conceptos relacionados con el principio de privilegio mínimo y la delegación responsable.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con los riesgos de otorgar permisos excesivos en roles administrativos.',
+            ' Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con los riesgos de otorgar permisos excesivos en roles administrativos.',
         },
         {
           id: 12,
@@ -441,9 +441,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con el alcance de los roles especializados dentro del modelo RBAC.',
+            ' Se evidencia un adecuado dominio de los conceptos relacionados con el alcance de los roles especializados dentro del modelo RBAC.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con las funciones de apoyo permitidas por roles administrativos específicos.',
+            ' Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con las funciones de apoyo permitidas por roles administrativos específicos.',
         },
         {
           id: 13,
@@ -474,9 +474,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con las herramientas de cumplimiento y la traducción de políticas a controles técnicos.',
+            ' Se evidencia un adecuado dominio de los conceptos relacionados con las herramientas de cumplimiento y la traducción de políticas a controles técnicos.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con el uso de Microsoft Purview en seguridad y cumplimiento.',
+            ' Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con el uso de Microsoft Purview en seguridad y cumplimiento.',
         },
         {
           id: 14,
@@ -509,9 +509,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con las etiquetas de confidencialidad para proteger información sensible.',
+            ' Se evidencia un adecuado dominio de los conceptos relacionados con las etiquetas de confidencialidad para proteger información sensible.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la clasificación y protección documental mediante etiquetas.',
+            ' Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la clasificación y protección documental mediante etiquetas.',
         },
         {
           id: 15,
@@ -545,9 +545,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la protección contra amenazas mediante enlaces y archivos adjuntos seguros.',
+            ' Se evidencia un adecuado dominio de los conceptos relacionados con la protección contra amenazas mediante enlaces y archivos adjuntos seguros.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con el funcionamiento de Microsoft Defender for Office 365.',
+            ' Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con el funcionamiento de Microsoft Defender for Office 365.',
         },
         {
           id: 16,
@@ -579,9 +579,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con el acceso condicional como mecanismo de seguridad adaptativa.',
+            ' Se evidencia un adecuado dominio de los conceptos relacionados con el acceso condicional como mecanismo de seguridad adaptativa.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con las condiciones de acceso seguro definidas en Microsoft Entra ID.',
+            ' Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con las condiciones de acceso seguro definidas en Microsoft Entra ID.',
         },
         {
           id: 17,
@@ -615,9 +615,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con las simulaciones de ataque como estrategia de concienciación y aprendizaje.',
+            ' Se evidencia un adecuado dominio de los conceptos relacionados con las simulaciones de ataque como estrategia de concienciación y aprendizaje.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formación en ciudadanía digital y las simulaciones de <em>phishing</em>.',
+            ' Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formación en ciudadanía digital y las simulaciones de <em>phishing</em>.',
         },
         {
           id: 18,
@@ -652,9 +652,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con las diferencias funcionales entre OneDrive y SharePoint.',
+            ' Se evidencia un adecuado dominio de los conceptos relacionados con las diferencias funcionales entre OneDrive y SharePoint.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la arquitectura de almacenamiento en Microsoft 365.',
+            ' Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la arquitectura de almacenamiento en Microsoft 365.',
         },
         {
           id: 19,
@@ -687,9 +687,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la disponibilidad y recuperación de información en la nube.',
+            ' Se evidencia un adecuado dominio de los conceptos relacionados con la disponibilidad y recuperación de información en la nube.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con las versiones de documentos y los mecanismos de recuperación.',
+            ' Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con las versiones de documentos y los mecanismos de recuperación.',
         },
         {
           id: 20,
@@ -724,15 +724,15 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con DLP y retención como estrategias de protección y gobierno de la información.',
+            ' Se evidencia un adecuado dominio de los conceptos relacionados con DLP y retención como estrategias de protección y gobierno de la información.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la prevención de pérdida de datos y las políticas de retención.',
+            ' Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la prevención de pérdida de datos y las políticas de retención.',
         },
       ],
       mensaje_final_aprobado:
-        'Ha superado la actividad y demuestra sólidos conocimientos sobre la gestión administrativa, la seguridad y el almacenamiento en Microsoft 365.',
+        ' Ha superado la actividad y demuestra sólidos conocimientos sobre la gestión administrativa, la seguridad y el almacenamiento en Microsoft 365.',
       mensaje_final_reprobado:
-        'No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
+        ' No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
     },
   }),
 }
