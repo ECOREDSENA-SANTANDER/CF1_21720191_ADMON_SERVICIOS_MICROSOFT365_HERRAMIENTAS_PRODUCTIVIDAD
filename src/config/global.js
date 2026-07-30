@@ -179,7 +179,7 @@ export default {
   },
   glosario: [
     {
-      termino: 'Directorio activo (<em>Active Directory</em> - AD)',
+      termino: 'Directorio activo (Active Directory - AD)',
       significado:
         'Servicio de directorio de Microsoft utilizado para la gestión centralizada de identidades y accesos en entornos de red locales.',
     },
@@ -231,7 +231,7 @@ export default {
     {
       termino: '<em>Malware</em>',
       significado:
-        '<em>software</em> malicioso diseñado para infiltrarse o dañar un sistema informático sin el consentimiento del propietario.',
+        '<em>Software</em> malicioso diseñado para infiltrarse o dañar un sistema informático sin el consentimiento del propietario.',
     },
     {
       termino: 'OneDrive',
@@ -297,7 +297,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional G06. Responsable Ecosistema de Recursos Educativos Digitales (RED)',
+            'Profesional 06. Responsable Ecosistema de Recursos Educativos Digitales (RED)',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -322,7 +322,12 @@ export default {
         },
         {
           nombre: 'Sandra Liliana Cristancho Cruz',
-          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
+          cargo: 'Apoyo a la evaluación instruccional',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
+        {
+          nombre: 'Erika Daniela Manrique Rueda',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -351,12 +356,12 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Erika Daniela Manrique Rueda',
+          nombre: '',
           cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Laura Paola Gelvez Manosalva',
+          nombre: '',
           cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
